@@ -5,6 +5,7 @@ The files included can be used to develop a conversational interface that can be
 various types of documents. However, it's intended purpose is to be used on Google Chrome.
 There are some references to Google Chrome's API documentation to store domain names of URLS. 
 The domain names are used as the names of collections in ChromaDB, the vector store of choice. 
+The names of the branches indicate where the types of files you may be interested in are located.
 
 Tech stack: 
 1. Python
